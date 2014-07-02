@@ -10,17 +10,11 @@
 
 @implementation NlFokkezbColorpickerView
 
--(void)dealloc
-{
-    RELEASE_TO_NIL(colorPicker);
-    [super dealloc];
-}
-
 -(HRColorPickerView*)colorPicker
 {
     if (colorPicker==nil)
     {
-        colorPicker = [[HRColorPickerView alloc] initWithFrame:[self frame]];
+        colorPicker = [[HRColorPickerView alloc] init];
         [self addSubview:colorPicker];
     }
     
@@ -41,23 +35,10 @@
 
 -(void)frameSizeChanged:(CGRect)frame bounds:(CGRect)bounds
 {
-        NSLog(@"[VIEW LIFECYCLE EVENT] initializeState");
-    
     if (colorPicker!=nil)
     {
-        
-            NSLog(@"[VIEW LIFECYCLE EVENT] initializeState IN IF");
-        
-//        [TiUtils setView:colorPicker positionRect:bounds];
-//        colorPicker.frame = (CGRect) {.origin = CGPointZero, .size = frame.size};
-        
-        
+        NSLog(@"[VIEW LIFECYCLE EVENT] initializeState IN IF");
         [TiUtils setView:colorPicker positionRect:bounds];
-        HRColorPickerView *oldSlider = colorPicker;
-        [colorPicker removeFromSuperview];
-        colorPicker = [[HRColorPickerView alloc] initWithFrame:bounds];
-        [self addSubview:colorPicker];
-
     }
 }
 

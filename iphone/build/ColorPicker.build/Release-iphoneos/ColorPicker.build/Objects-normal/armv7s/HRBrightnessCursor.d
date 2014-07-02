@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/fokkezb/dev/modules/ColorPicker/iphone/ColorPicker/HRBrightnessCursor.m \
-  /Users/fokkezb/dev/modules/ColorPicker/iphone/ColorPicker/HRBrightnessCursor.h \
-  /Users/fokkezb/dev/modules/ColorPicker/iphone/ColorPicker/HRHSVColorUtil.h
+  /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/HRBrightnessCursor.m \
+  /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/HRBrightnessCursor.h \
+  /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/HRHSVColorUtil.h
