@@ -7,9 +7,13 @@
 //
 
 #import "TiViewProxy.h"
+#import "HRColorPickerView.h"
 
 @interface NlFokkezbColorpickerViewProxy : TiViewProxy {
     
 }
+
+- (NSString*)getHEXFromColor:(UIColor *)color;
+- (void)colorDidChange:(HRColorPickerView *)pickerView;
 
 @end

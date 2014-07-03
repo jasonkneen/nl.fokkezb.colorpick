@@ -2,45 +2,49 @@ TColorPicker
 v6
 r1
 cCheck dependencies
-cProcessPCH /var/folders/9f/sl63bfh578x0v3ktkwjk0_ym0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NlFokkezbColorpicker_Prefix-brlxwucokhytfdejlgbnzcyxbgnz/NlFokkezbColorpicker_Prefix.pch.pch NlFokkezbColorpicker_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cProcessPCH /var/folders/9f/sl63bfh578x0v3ktkwjk0_ym0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NlFokkezbColorpicker_Prefix-dhcdbazaiqqxmdhijlftqhduqqbi/NlFokkezbColorpicker_Prefix.pch.pch NlFokkezbColorpicker_Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cProcessPCH /var/folders/9f/sl63bfh578x0v3ktkwjk0_ym0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NlFokkezbColorpicker_Prefix-dzqemcrgiedcmxcqaeeehiedscxp/NlFokkezbColorpicker_Prefix.pch.pch NlFokkezbColorpicker_Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/HRColorPickerView.o /Users/fokkezb/dev/modules/ColorPicker/iphone/ColorPicker/HRColorPickerView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/UIImage+CoreGraphics.o /Users/fokkezb/dev/modules/ColorPicker/iphone/ColorPicker/UIImage+CoreGraphics.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/HRHSVColorUtil.o /Users/fokkezb/dev/modules/ColorPicker/iphone/ColorPicker/HRHSVColorUtil.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/NlFokkezbColorpickerModule.o /Users/fokkezb/dev/modules/ColorPicker/iphone/Classes/NlFokkezbColorpickerModule.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/HRColorCursor.o /Users/fokkezb/dev/modules/ColorPicker/iphone/ColorPicker/HRColorCursor.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/HRBrightnessSlider.o /Users/fokkezb/dev/modules/ColorPicker/iphone/ColorPicker/HRBrightnessSlider.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/NlFokkezbColorpickerViewProxy.o /Users/fokkezb/dev/modules/ColorPicker/iphone/Classes/NlFokkezbColorpickerViewProxy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/NlFokkezbColorpickerModuleAssets.o /Users/fokkezb/dev/modules/ColorPicker/iphone/Classes/NlFokkezbColorpickerModuleAssets.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/HRColorMapView.o /Users/fokkezb/dev/modules/ColorPicker/iphone/ColorPicker/HRColorMapView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/HRColorInfoView.o /Users/fokkezb/dev/modules/ColorPicker/iphone/ColorPicker/HRColorInfoView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/NlFokkezbColorpickerView.o /Users/fokkezb/dev/modules/ColorPicker/iphone/Classes/NlFokkezbColorpickerView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/HRBrightnessCursor.o /Users/fokkezb/dev/modules/ColorPicker/iphone/ColorPicker/HRBrightnessCursor.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/HRColorPickerView.o /Users/fokkezb/dev/modules/ColorPicker/iphone/ColorPicker/HRColorPickerView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/UIImage+CoreGraphics.o /Users/fokkezb/dev/modules/ColorPicker/iphone/ColorPicker/UIImage+CoreGraphics.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/HRHSVColorUtil.o /Users/fokkezb/dev/modules/ColorPicker/iphone/ColorPicker/HRHSVColorUtil.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/NlFokkezbColorpickerModule.o /Users/fokkezb/dev/modules/ColorPicker/iphone/Classes/NlFokkezbColorpickerModule.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/HRColorCursor.o /Users/fokkezb/dev/modules/ColorPicker/iphone/ColorPicker/HRColorCursor.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/HRBrightnessSlider.o /Users/fokkezb/dev/modules/ColorPicker/iphone/ColorPicker/HRBrightnessSlider.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/NlFokkezbColorpickerViewProxy.o /Users/fokkezb/dev/modules/ColorPicker/iphone/Classes/NlFokkezbColorpickerViewProxy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/NlFokkezbColorpickerModuleAssets.o /Users/fokkezb/dev/modules/ColorPicker/iphone/Classes/NlFokkezbColorpickerModuleAssets.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/HRColorMapView.o /Users/fokkezb/dev/modules/ColorPicker/iphone/ColorPicker/HRColorMapView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/HRColorInfoView.o /Users/fokkezb/dev/modules/ColorPicker/iphone/ColorPicker/HRColorInfoView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/NlFokkezbColorpickerView.o /Users/fokkezb/dev/modules/ColorPicker/iphone/Classes/NlFokkezbColorpickerView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/HRBrightnessCursor.o /Users/fokkezb/dev/modules/ColorPicker/iphone/ColorPicker/HRBrightnessCursor.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/HRColorPickerView.o /Users/fokkezb/dev/modules/ColorPicker/iphone/ColorPicker/HRColorPickerView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/UIImage+CoreGraphics.o /Users/fokkezb/dev/modules/ColorPicker/iphone/ColorPicker/UIImage+CoreGraphics.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/HRHSVColorUtil.o /Users/fokkezb/dev/modules/ColorPicker/iphone/ColorPicker/HRHSVColorUtil.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/NlFokkezbColorpickerModule.o /Users/fokkezb/dev/modules/ColorPicker/iphone/Classes/NlFokkezbColorpickerModule.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/HRColorCursor.o /Users/fokkezb/dev/modules/ColorPicker/iphone/ColorPicker/HRColorCursor.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/HRBrightnessSlider.o /Users/fokkezb/dev/modules/ColorPicker/iphone/ColorPicker/HRBrightnessSlider.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/NlFokkezbColorpickerViewProxy.o /Users/fokkezb/dev/modules/ColorPicker/iphone/Classes/NlFokkezbColorpickerViewProxy.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/NlFokkezbColorpickerModuleAssets.o /Users/fokkezb/dev/modules/ColorPicker/iphone/Classes/NlFokkezbColorpickerModuleAssets.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/HRColorMapView.o /Users/fokkezb/dev/modules/ColorPicker/iphone/ColorPicker/HRColorMapView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/HRColorInfoView.o /Users/fokkezb/dev/modules/ColorPicker/iphone/ColorPicker/HRColorInfoView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/NlFokkezbColorpickerView.o /Users/fokkezb/dev/modules/ColorPicker/iphone/Classes/NlFokkezbColorpickerView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/HRBrightnessCursor.o /Users/fokkezb/dev/modules/ColorPicker/iphone/ColorPicker/HRBrightnessCursor.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/xj/3kjzjmv14yj2sth24bnj7pjw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NlFokkezbColorpicker_Prefix-gvxfzwdukvtilmbqcmmjhnoitoun/NlFokkezbColorpicker_Prefix.pch.pch NlFokkezbColorpicker_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/xj/3kjzjmv14yj2sth24bnj7pjw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NlFokkezbColorpicker_Prefix-bhpbqvwxcuxjecaniertydzffrnt/NlFokkezbColorpicker_Prefix.pch.pch NlFokkezbColorpicker_Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/xj/3kjzjmv14yj2sth24bnj7pjw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NlFokkezbColorpicker_Prefix-bdwbirkseozpubbwiyiucvlhrswo/NlFokkezbColorpicker_Prefix.pch.pch NlFokkezbColorpicker_Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/HRColorPickerView.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/HRColorPickerView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/UIImage+CoreGraphics.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/UIImage+CoreGraphics.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/HRHSVColorUtil.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/HRHSVColorUtil.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/NlFokkezbColorpickerModule.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerModule.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/HRColorCursor.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/HRColorCursor.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/HRBrightnessSlider.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/HRBrightnessSlider.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/NlFokkezbColorpickerViewProxy.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerViewProxy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/NlFokkezbColorpickerModuleAssets.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerModuleAssets.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/HRColorMapView.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/HRColorMapView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/HRColorInfoView.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/HRColorInfoView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/NlFokkezbColorpickerView.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/HRBrightnessCursor.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/HRBrightnessCursor.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/HRColorPickerView.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/HRColorPickerView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/UIImage+CoreGraphics.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/UIImage+CoreGraphics.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/HRHSVColorUtil.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/HRHSVColorUtil.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/NlFokkezbColorpickerModule.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerModule.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/HRColorCursor.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/HRColorCursor.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/HRBrightnessSlider.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/HRBrightnessSlider.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/NlFokkezbColorpickerViewProxy.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerViewProxy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/NlFokkezbColorpickerModuleAssets.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerModuleAssets.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/HRColorMapView.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/HRColorMapView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/HRColorInfoView.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/HRColorInfoView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/NlFokkezbColorpickerView.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/HRBrightnessCursor.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/HRBrightnessCursor.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/HRColorPickerView.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/HRColorPickerView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/UIImage+CoreGraphics.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/UIImage+CoreGraphics.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/HRHSVColorUtil.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/HRHSVColorUtil.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/NlFokkezbColorpickerModule.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerModule.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/HRColorCursor.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/HRColorCursor.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/HRBrightnessSlider.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/HRBrightnessSlider.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/NlFokkezbColorpickerViewProxy.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerViewProxy.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/NlFokkezbColorpickerModuleAssets.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerModuleAssets.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/HRColorMapView.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/HRColorMapView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/HRColorInfoView.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/HRColorInfoView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/NlFokkezbColorpickerView.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/HRBrightnessCursor.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/HRBrightnessCursor.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/libNlFokkezbColorpicker.a normal armv7
+cLibtool /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/libNlFokkezbColorpicker.a normal armv7s
+cLibtool /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/libNlFokkezbColorpicker.a normal arm64
+cCreateUniversalBinary /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/Release-iphoneos/libNlFokkezbColorpicker.a normal armv7\ armv7s\ arm64
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
 c0000000053119F860000000000000132
@@ -48,33 +52,33 @@ t1393663878
 s306
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
-c00000000537A405B000000000000036B
-t1400520795
+c00000000535FA2BD000000000000036B
+t1398776509
 s875
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
-c00000000537A405B000000000000019E
-t1400520795
+c00000000535FA2BD000000000000019E
+t1398776509
 s414
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c00000000537A405D00000000004D7BC0
-t1400520797
+c00000000535FA2BF00000000004D7BC0
+t1398776511
 s5077952
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c00000000537A405F0000000000A90C10
-t1400520799
+c00000000535FA2C10000000000A90C10
+t1398776513
 s11078672
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
-c00000000537A40600000000000649DB0
-t1400520800
+c00000000535FA2C30000000000649DB0
+t1398776515
 s6593968
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c00000000537A40660000000002759920
-t1400520806
+c00000000535FA2C50000000002759920
+t1398776517
 s41261344
 
 N/Users/fokkezb/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.RC/iphone/include/Bridge.h
@@ -813,9 +817,24 @@ t1404307401
 s612
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerView.h
-c0000000053B407C9000000000000010C
-t1404307401
-s268
+c0000000053B528F20000000000000146
+t1404381426
+s326
+
+N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerView.m
+c0000000053B53241000000000000050B
+t1404383809
+s1291
+
+N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerViewProxy.h
+c0000000053B532030000000000000152
+t1404383747
+s338
+
+N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerViewProxy.m
+c0000000053B531EA00000000000002C3
+t1404383722
+s707
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/HRBrightnessCursor.h
 c0000000053B407C900000000000005D5
@@ -918,179 +937,179 @@ t1404307401
 s90
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/HRBrightnessCursor.o
-t1404311599
-s60844
+t1404381426
+s60796
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/HRBrightnessSlider.o
-t1404311599
-s72844
+t1404381426
+s72796
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/HRColorCursor.o
-t1404311599
-s58808
+t1404381426
+s58760
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/HRColorInfoView.o
-t1404311599
-s58356
+t1404381426
+s58308
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/HRColorMapView.o
-t1404311599
-s96972
+t1404381426
+s96924
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/HRColorPickerView.o
-t1404311599
-s68844
+t1404381426
+s68788
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/HRHSVColorUtil.o
-t1404311599
-s4676
+t1404381426
+s4620
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/NlFokkezbColorpicker.LinkFileList
-c0000000053B4084200000000000007C8
-t1404307522
+c0000000053B52A6A00000000000007C8
+t1404381802
 s1992
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/NlFokkezbColorpickerModule.o
-t1404311599
-s17212
+t1404381426
+s17164
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/NlFokkezbColorpickerModuleAssets.o
-t1404311599
-s5876
+t1404381426
+s5828
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/NlFokkezbColorpickerView.o
-t1404311599
-s52396
+t1404383819
+s59496
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/NlFokkezbColorpickerViewProxy.o
-t1404311599
-s46012
+t1404383819
+s53756
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/UIImage+CoreGraphics.o
-t1404311599
-s10724
+t1404381426
+s10676
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/libNlFokkezbColorpicker.a
-t1404311599
-s558120
+t1404383819
+s572520
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/HRBrightnessCursor.o
-t1404311598
-s57032
+t1404381426
+s56968
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/HRBrightnessSlider.o
-t1404311598
-s67672
+t1404381426
+s67624
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/HRColorCursor.o
-t1404311598
-s55124
+t1404381426
+s55076
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/HRColorInfoView.o
-t1404311598
-s54776
+t1404381426
+s54728
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/HRColorMapView.o
-t1404311598
-s90256
+t1404381426
+s90208
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/HRColorPickerView.o
-t1404311598
-s65304
+t1404381426
+s65256
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/HRHSVColorUtil.o
-t1404311598
-s4320
+t1404381426
+s4268
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/NlFokkezbColorpicker.LinkFileList
-c0000000053B4084200000000000007C8
-t1404307522
+c0000000053B52A6A00000000000007C8
+t1404381802
 s1992
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/NlFokkezbColorpickerModule.o
-t1404311598
-s15452
+t1404381426
+s15396
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/NlFokkezbColorpickerModuleAssets.o
-t1404311598
-s5340
+t1404381426
+s5288
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/NlFokkezbColorpickerView.o
-t1404311598
-s52368
+t1404383818
+s58472
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/NlFokkezbColorpickerViewProxy.o
-t1404311598
-s47604
+t1404383818
+s53600
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/UIImage+CoreGraphics.o
-t1404311598
-s9948
+t1404381426
+s9896
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/libNlFokkezbColorpicker.a
-t1404311599
-s529728
+t1404383819
+s541360
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/HRBrightnessCursor.o
-t1404311599
-s57016
+t1404381426
+s56968
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/HRBrightnessSlider.o
-t1404311599
-s67576
+t1404381426
+s67520
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/HRColorCursor.o
-t1404311599
-s55156
+t1404381426
+s55092
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/HRColorInfoView.o
-t1404311599
-s54752
+t1404381426
+s54704
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/HRColorMapView.o
-t1404311599
-s90208
+t1404381426
+s90160
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/HRColorPickerView.o
-t1404311599
-s65296
+t1404381426
+s65248
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/HRHSVColorUtil.o
-t1404311598
-s4320
+t1404381426
+s4268
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/NlFokkezbColorpicker.LinkFileList
-c0000000053B4084200000000000007D4
-t1404307522
+c0000000053B52A6A00000000000007D4
+t1404381802
 s2004
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/NlFokkezbColorpickerModule.o
-t1404311599
-s15444
+t1404381426
+s15388
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/NlFokkezbColorpickerModuleAssets.o
-t1404311599
-s5340
+t1404381426
+s5288
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/NlFokkezbColorpickerView.o
-t1404311599
-s52368
+t1404383818
+s58472
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/NlFokkezbColorpickerViewProxy.o
-t1404311599
-s47604
+t1404383818
+s53600
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/UIImage+CoreGraphics.o
-t1404311598
-s9936
+t1404381426
+s9884
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/libNlFokkezbColorpicker.a
-t1404311599
-s529544
+t1404383819
+s541176
 
 N/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/Release-iphoneos/libNlFokkezbColorpicker.a
-t1404311069
-s1583364
+t1404383819
+s1655124
 
 N/var/folders/9f/sl63bfh578x0v3ktkwjk0_ym0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NlFokkezbColorpicker_Prefix-aucrsobjzuyhyhaamurcbokozbrv/NlFokkezbColorpicker_Prefix.pch.pch
 t1404304067
@@ -1142,7 +1161,7 @@ s5306512
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesc4e9d0025f65b941^971eed025f65b941^---0#1#1#--18"Check dependencies36"D04C780D-1FE5-44D9-83F0-8E627D70D839-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies69c8cc7c6a65b941^b0a9eb7c6a65b941^---0#1#1#--18"Check dependencies36"9DA42A0D-EF18-4FF3-BD3E-6776F0EE4030-
 
 CCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/HRBrightnessCursor.o /Users/fokkezb/dev/modules/ColorPicker/iphone/ColorPicker/HRBrightnessCursor.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s426070918.061197
@@ -1625,6 +1644,61 @@ d/Users/fokkezb/dev/modules/ColorPicker/iphone/ColorPicker/HRColorPickerView.h
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/fokkezb/dev/modules/ColorPicker/iphone/NlFokkezbColorpickerView.m211"CompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/NlFokkezbColorpickerView.o NlFokkezbColorpickerView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler7ac6fe453d64b941^dd5e1a463d64b941^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/fokkezb/dev/modules/ColorPicker/iphone/NlFokkezbColorpickerView.m0000000000000000^3724"CompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/NlFokkezbColorpickerView.o NlFokkezbColorpickerView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fokkezb/dev/modules/ColorPicker/iphone    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.0 -iquote /Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-generated-files.hmap -I/Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-own-target-headers.hmap -I/Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-all-target-headers.hmap -iquote /Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-project-headers.hmap -I/Users/fokkezb/dev/modules/ColorPicker/iphone/build/Release-iphoneos/include -I/Users/fokkezb/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.RC/iphone/include -I/Users/fokkezb/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.RC/iphone/include/TiCore -I/Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/DerivedSources/arm64 -I/Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/DerivedSources -F/Users/fokkezb/dev/modules/ColorPicker/iphone/build/Release-iphoneos -DTI_POST_1_2 -include /var/folders/9f/sl63bfh578x0v3ktkwjk0_ym0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NlFokkezbColorpicker_Prefix-czrrrjaetkirmwcyyhrhahevemdm/NlFokkezbColorpicker_Prefix.pch -MMD -MT dependencies -MF /Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/NlFokkezbColorpickerView.d --serialize-diagnostics /Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/NlFokkezbColorpickerView.dia -c /Users/fokkezb/dev/modules/ColorPicker/iphone/NlFokkezbColorpickerView.m -o /Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/NlFokkezbColorpickerView.o36"E6BF86C6-AF50-4D28-BBE8-4AB954FB79DC-
 b6B10E768-FE66-4B86-90AC-3BC321E41302
 
+CCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/NlFokkezbColorpickerView.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426076618.959426
+e426076619.039151
+r1
+xCompileC
+xbuild/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/NlFokkezbColorpickerView.o
+x/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerView.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerView.m
+d/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerView.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBase.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/defines.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiThreading.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiPublicAPI.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiUIView.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiProxy.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiEvaluator.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/KrollContext.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiCore.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/Ti.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiBase.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiContextRef.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiObjectRef.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiValueRef.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/WebKitAvailability.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiStringRef.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiStringRefCF.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/KrollCallback.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/KrollObject.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBindingRunLoop.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiAnimation.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiPoint.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiDimension.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiColor.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/ListenerEntry.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiModule.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiUtils.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/WebFont.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiFile.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBuffer.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBlob.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/LayoutConstraint.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiGradient.h
+d/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/HRColorPickerView.h
+d/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerViewProxy.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiViewProxy.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiRect.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiViewTemplate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerView.m219"CompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/NlFokkezbColorpickerView.o Classes/NlFokkezbColorpickerView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilerd0f1f5ca6965b941^53060acb6965b941^---0#0#1#-19%DVTDocumentLocation2@117"file://localhost/Volumes/Macintosh%20HD%202/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerView.m0000000000000000^4675"CompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/NlFokkezbColorpickerView.o Classes/NlFokkezbColorpickerView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=4.0 -iquote /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-generated-files.hmap -I/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-own-target-headers.hmap -I/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-all-target-headers.hmap -iquote /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-project-headers.hmap -I/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/Release-iphoneos/include -I/Users/marcelpociot/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include -I/Users/marcelpociot/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore -I/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/DerivedSources/arm64 -I/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/DerivedSources -F/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/Release-iphoneos -DTI_POST_1_2 -include /var/folders/xj/3kjzjmv14yj2sth24bnj7pjw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NlFokkezbColorpicker_Prefix-bdwbirkseozpubbwiyiucvlhrswo/NlFokkezbColorpicker_Prefix.pch -MMD -MT dependencies -MF /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/NlFokkezbColorpickerView.d --serialize-diagnostics /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/NlFokkezbColorpickerView.dia -c /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerView.m -o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/NlFokkezbColorpickerView.o36"ADE34703-28FB-43E1-9AA1-2153C9D37461-
+b5D1F2CF2-96A3-4C21-85AC-D6EC048E2E1E
+
 CCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/NlFokkezbColorpickerView.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/NlFokkezbColorpickerView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s426004399.452915
 e426004399.533917
@@ -1781,6 +1855,60 @@ d/Users/fokkezb/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.RC/ipho
 d/Users/fokkezb/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.RC/iphone/include/TiViewTemplate.h
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/fokkezb/dev/modules/ColorPicker/iphone/NlFokkezbColorpickerViewProxy.m221"CompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/NlFokkezbColorpickerViewProxy.o NlFokkezbColorpickerViewProxy.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler1119fe453d64b941^bd561a463d64b941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/fokkezb/dev/modules/ColorPicker/iphone/NlFokkezbColorpickerViewProxy.m0000000000000000^3754"CompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/NlFokkezbColorpickerViewProxy.o NlFokkezbColorpickerViewProxy.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fokkezb/dev/modules/ColorPicker/iphone    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.0 -iquote /Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-generated-files.hmap -I/Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-own-target-headers.hmap -I/Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-all-target-headers.hmap -iquote /Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-project-headers.hmap -I/Users/fokkezb/dev/modules/ColorPicker/iphone/build/Release-iphoneos/include -I/Users/fokkezb/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.RC/iphone/include -I/Users/fokkezb/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.RC/iphone/include/TiCore -I/Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/DerivedSources/arm64 -I/Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/DerivedSources -F/Users/fokkezb/dev/modules/ColorPicker/iphone/build/Release-iphoneos -DTI_POST_1_2 -include /var/folders/9f/sl63bfh578x0v3ktkwjk0_ym0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NlFokkezbColorpicker_Prefix-czrrrjaetkirmwcyyhrhahevemdm/NlFokkezbColorpicker_Prefix.pch -MMD -MT dependencies -MF /Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/NlFokkezbColorpickerViewProxy.d --serialize-diagnostics /Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/NlFokkezbColorpickerViewProxy.dia -c /Users/fokkezb/dev/modules/ColorPicker/iphone/NlFokkezbColorpickerViewProxy.m -o /Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/NlFokkezbColorpickerViewProxy.o36"222157C6-405F-4947-A491-389070A5C140-
 b6B10E768-FE66-4B86-90AC-3BC321E41302
+
+CCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/NlFokkezbColorpickerViewProxy.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerViewProxy.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426076618.950793
+e426076619.026549
+r1
+xCompileC
+xbuild/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/NlFokkezbColorpickerViewProxy.o
+x/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerViewProxy.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerViewProxy.m
+d/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerViewProxy.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiViewProxy.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiProxy.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBase.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/defines.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiThreading.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiPublicAPI.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiEvaluator.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/KrollContext.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiCore.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/Ti.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiBase.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiContextRef.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiObjectRef.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiValueRef.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/WebKitAvailability.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiStringRef.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiStringRefCF.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/KrollCallback.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/KrollObject.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBindingRunLoop.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiUIView.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiAnimation.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiPoint.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiDimension.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiColor.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/ListenerEntry.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiModule.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiUtils.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/WebFont.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiFile.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBuffer.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBlob.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/LayoutConstraint.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiGradient.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiRect.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiViewTemplate.h
+d/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/HRColorPickerView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerViewProxy.m229"CompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/NlFokkezbColorpickerViewProxy.o Classes/NlFokkezbColorpickerViewProxy.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilercdaef3ca6965b941^6fd806cb6965b941^---0#0#1#-19%DVTDocumentLocation2@122"file://localhost/Volumes/Macintosh%20HD%202/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerViewProxy.m0000000000000000^4705"CompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/NlFokkezbColorpickerViewProxy.o Classes/NlFokkezbColorpickerViewProxy.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=4.0 -iquote /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-generated-files.hmap -I/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-own-target-headers.hmap -I/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-all-target-headers.hmap -iquote /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-project-headers.hmap -I/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/Release-iphoneos/include -I/Users/marcelpociot/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include -I/Users/marcelpociot/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore -I/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/DerivedSources/arm64 -I/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/DerivedSources -F/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/Release-iphoneos -DTI_POST_1_2 -include /var/folders/xj/3kjzjmv14yj2sth24bnj7pjw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NlFokkezbColorpicker_Prefix-bdwbirkseozpubbwiyiucvlhrswo/NlFokkezbColorpicker_Prefix.pch -MMD -MT dependencies -MF /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/NlFokkezbColorpickerViewProxy.d --serialize-diagnostics /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/NlFokkezbColorpickerViewProxy.dia -c /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerViewProxy.m -o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/NlFokkezbColorpickerViewProxy.o36"756EC368-F523-46C4-B4D6-D97C4F05574F-
+b5D1F2CF2-96A3-4C21-85AC-D6EC048E2E1E
 
 CCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/NlFokkezbColorpickerViewProxy.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/NlFokkezbColorpickerViewProxy.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s426004399.379066
@@ -2348,6 +2476,61 @@ d/Users/fokkezb/dev/modules/ColorPicker/iphone/ColorPicker/HRColorPickerView.h
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/fokkezb/dev/modules/ColorPicker/iphone/NlFokkezbColorpickerView.m211"CompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/NlFokkezbColorpickerView.o NlFokkezbColorpickerView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerac91e9453d64b941^d13e02463d64b941^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/fokkezb/dev/modules/ColorPicker/iphone/NlFokkezbColorpickerView.m0000000000000000^3727"CompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/NlFokkezbColorpickerView.o NlFokkezbColorpickerView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fokkezb/dev/modules/ColorPicker/iphone    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.0 -iquote /Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-generated-files.hmap -I/Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-own-target-headers.hmap -I/Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-all-target-headers.hmap -iquote /Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-project-headers.hmap -I/Users/fokkezb/dev/modules/ColorPicker/iphone/build/Release-iphoneos/include -I/Users/fokkezb/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.RC/iphone/include -I/Users/fokkezb/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.RC/iphone/include/TiCore -I/Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/DerivedSources/armv7 -I/Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/DerivedSources -F/Users/fokkezb/dev/modules/ColorPicker/iphone/build/Release-iphoneos -DTI_POST_1_2 -include /var/folders/9f/sl63bfh578x0v3ktkwjk0_ym0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NlFokkezbColorpicker_Prefix-gcodxazrdlvmmsajfcgzscduqxjp/NlFokkezbColorpicker_Prefix.pch -MMD -MT dependencies -MF /Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/NlFokkezbColorpickerView.d --serialize-diagnostics /Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/NlFokkezbColorpickerView.dia -c /Users/fokkezb/dev/modules/ColorPicker/iphone/NlFokkezbColorpickerView.m -o /Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/NlFokkezbColorpickerView.o36"D2A733EB-BCA0-42E8-9688-D21551C51B61-
 b6B10E768-FE66-4B86-90AC-3BC321E41302
 
+CCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/NlFokkezbColorpickerView.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426076618.861688
+e426076618.956006
+r1
+xCompileC
+xbuild/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/NlFokkezbColorpickerView.o
+x/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerView.m
+d/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerView.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBase.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/defines.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiThreading.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiPublicAPI.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiUIView.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiProxy.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiEvaluator.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/KrollContext.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiCore.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/Ti.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiBase.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiContextRef.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiObjectRef.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiValueRef.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/WebKitAvailability.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiStringRef.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiStringRefCF.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/KrollCallback.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/KrollObject.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBindingRunLoop.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiAnimation.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiPoint.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiDimension.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiColor.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/ListenerEntry.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiModule.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiUtils.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/WebFont.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiFile.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBuffer.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBlob.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/LayoutConstraint.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiGradient.h
+d/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/HRColorPickerView.h
+d/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerViewProxy.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiViewProxy.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiRect.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiViewTemplate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerView.m219"CompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/NlFokkezbColorpickerView.o Classes/NlFokkezbColorpickerView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerf015ddca6965b941^e4d6f4ca6965b941^---0#0#1#-19%DVTDocumentLocation2@117"file://localhost/Volumes/Macintosh%20HD%202/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerView.m0000000000000000^4678"CompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/NlFokkezbColorpickerView.o Classes/NlFokkezbColorpickerView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=4.0 -iquote /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-generated-files.hmap -I/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-own-target-headers.hmap -I/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-all-target-headers.hmap -iquote /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-project-headers.hmap -I/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/Release-iphoneos/include -I/Users/marcelpociot/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include -I/Users/marcelpociot/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore -I/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/DerivedSources/armv7 -I/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/DerivedSources -F/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/Release-iphoneos -DTI_POST_1_2 -include /var/folders/xj/3kjzjmv14yj2sth24bnj7pjw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NlFokkezbColorpicker_Prefix-gvxfzwdukvtilmbqcmmjhnoitoun/NlFokkezbColorpicker_Prefix.pch -MMD -MT dependencies -MF /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/NlFokkezbColorpickerView.d --serialize-diagnostics /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/NlFokkezbColorpickerView.dia -c /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerView.m -o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/NlFokkezbColorpickerView.o36"1BF3D2CD-81BB-44F4-98C2-4BF7A1FC8129-
+b5D1F2CF2-96A3-4C21-85AC-D6EC048E2E1E
+
 CCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/NlFokkezbColorpickerView.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/NlFokkezbColorpickerView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s426004398.808776
 e426004398.900426
@@ -2504,6 +2687,60 @@ d/Users/fokkezb/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.RC/ipho
 d/Users/fokkezb/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.RC/iphone/include/TiViewTemplate.h
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/fokkezb/dev/modules/ColorPicker/iphone/NlFokkezbColorpickerViewProxy.m221"CompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/NlFokkezbColorpickerViewProxy.o NlFokkezbColorpickerViewProxy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler124ce9453d64b941^c8ebfd453d64b941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/fokkezb/dev/modules/ColorPicker/iphone/NlFokkezbColorpickerViewProxy.m0000000000000000^3757"CompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/NlFokkezbColorpickerViewProxy.o NlFokkezbColorpickerViewProxy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fokkezb/dev/modules/ColorPicker/iphone    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.0 -iquote /Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-generated-files.hmap -I/Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-own-target-headers.hmap -I/Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-all-target-headers.hmap -iquote /Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-project-headers.hmap -I/Users/fokkezb/dev/modules/ColorPicker/iphone/build/Release-iphoneos/include -I/Users/fokkezb/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.RC/iphone/include -I/Users/fokkezb/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.RC/iphone/include/TiCore -I/Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/DerivedSources/armv7 -I/Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/DerivedSources -F/Users/fokkezb/dev/modules/ColorPicker/iphone/build/Release-iphoneos -DTI_POST_1_2 -include /var/folders/9f/sl63bfh578x0v3ktkwjk0_ym0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NlFokkezbColorpicker_Prefix-gcodxazrdlvmmsajfcgzscduqxjp/NlFokkezbColorpicker_Prefix.pch -MMD -MT dependencies -MF /Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/NlFokkezbColorpickerViewProxy.d --serialize-diagnostics /Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/NlFokkezbColorpickerViewProxy.dia -c /Users/fokkezb/dev/modules/ColorPicker/iphone/NlFokkezbColorpickerViewProxy.m -o /Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/NlFokkezbColorpickerViewProxy.o36"69DE93EC-0B6C-4097-975E-9B228DB07E5E-
 b6B10E768-FE66-4B86-90AC-3BC321E41302
+
+CCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/NlFokkezbColorpickerViewProxy.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerViewProxy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426076618.861655
+e426076618.948668
+r1
+xCompileC
+xbuild/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/NlFokkezbColorpickerViewProxy.o
+x/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerViewProxy.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerViewProxy.m
+d/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerViewProxy.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiViewProxy.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiProxy.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBase.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/defines.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiThreading.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiPublicAPI.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiEvaluator.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/KrollContext.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiCore.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/Ti.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiBase.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiContextRef.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiObjectRef.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiValueRef.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/WebKitAvailability.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiStringRef.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiStringRefCF.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/KrollCallback.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/KrollObject.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBindingRunLoop.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiUIView.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiAnimation.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiPoint.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiDimension.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiColor.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/ListenerEntry.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiModule.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiUtils.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/WebFont.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiFile.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBuffer.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBlob.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/LayoutConstraint.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiGradient.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiRect.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiViewTemplate.h
+d/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/HRColorPickerView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerViewProxy.m229"CompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/NlFokkezbColorpickerViewProxy.o Classes/NlFokkezbColorpickerViewProxy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler26fedcca6965b941^ecdaf2ca6965b941^---0#0#1#-19%DVTDocumentLocation2@122"file://localhost/Volumes/Macintosh%20HD%202/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerViewProxy.m0000000000000000^4708"CompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/NlFokkezbColorpickerViewProxy.o Classes/NlFokkezbColorpickerViewProxy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=4.0 -iquote /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-generated-files.hmap -I/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-own-target-headers.hmap -I/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-all-target-headers.hmap -iquote /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-project-headers.hmap -I/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/Release-iphoneos/include -I/Users/marcelpociot/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include -I/Users/marcelpociot/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore -I/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/DerivedSources/armv7 -I/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/DerivedSources -F/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/Release-iphoneos -DTI_POST_1_2 -include /var/folders/xj/3kjzjmv14yj2sth24bnj7pjw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NlFokkezbColorpicker_Prefix-gvxfzwdukvtilmbqcmmjhnoitoun/NlFokkezbColorpicker_Prefix.pch -MMD -MT dependencies -MF /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/NlFokkezbColorpickerViewProxy.d --serialize-diagnostics /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/NlFokkezbColorpickerViewProxy.dia -c /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerViewProxy.m -o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/NlFokkezbColorpickerViewProxy.o36"226DA8BB-1199-4295-AC44-042F42F50628-
+b5D1F2CF2-96A3-4C21-85AC-D6EC048E2E1E
 
 CCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/NlFokkezbColorpickerViewProxy.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/NlFokkezbColorpickerViewProxy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s426004398.711474
@@ -3071,6 +3308,61 @@ d/Users/fokkezb/dev/modules/ColorPicker/iphone/ColorPicker/HRColorPickerView.h
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/fokkezb/dev/modules/ColorPicker/iphone/NlFokkezbColorpickerView.m213"CompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/NlFokkezbColorpickerView.o NlFokkezbColorpickerView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler0057ea453d64b941^239f03463d64b941^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/fokkezb/dev/modules/ColorPicker/iphone/NlFokkezbColorpickerView.m0000000000000000^3734"CompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/NlFokkezbColorpickerView.o NlFokkezbColorpickerView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fokkezb/dev/modules/ColorPicker/iphone    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.0 -iquote /Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-generated-files.hmap -I/Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-own-target-headers.hmap -I/Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-all-target-headers.hmap -iquote /Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-project-headers.hmap -I/Users/fokkezb/dev/modules/ColorPicker/iphone/build/Release-iphoneos/include -I/Users/fokkezb/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.RC/iphone/include -I/Users/fokkezb/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.RC/iphone/include/TiCore -I/Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/DerivedSources/armv7s -I/Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/DerivedSources -F/Users/fokkezb/dev/modules/ColorPicker/iphone/build/Release-iphoneos -DTI_POST_1_2 -include /var/folders/9f/sl63bfh578x0v3ktkwjk0_ym0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NlFokkezbColorpicker_Prefix-aucrsobjzuyhyhaamurcbokozbrv/NlFokkezbColorpicker_Prefix.pch -MMD -MT dependencies -MF /Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/NlFokkezbColorpickerView.d --serialize-diagnostics /Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/NlFokkezbColorpickerView.dia -c /Users/fokkezb/dev/modules/ColorPicker/iphone/NlFokkezbColorpickerView.m -o /Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/NlFokkezbColorpickerView.o36"1C8FC5F4-6910-4741-AEBD-C04C7070C25F-
 b6B10E768-FE66-4B86-90AC-3BC321E41302
 
+CCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/NlFokkezbColorpickerView.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426076618.864685
+e426076618.963410
+r1
+xCompileC
+xbuild/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/NlFokkezbColorpickerView.o
+x/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerView.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerView.m
+d/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerView.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBase.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/defines.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiThreading.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiPublicAPI.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiUIView.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiProxy.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiEvaluator.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/KrollContext.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiCore.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/Ti.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiBase.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiContextRef.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiObjectRef.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiValueRef.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/WebKitAvailability.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiStringRef.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiStringRefCF.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/KrollCallback.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/KrollObject.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBindingRunLoop.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiAnimation.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiPoint.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiDimension.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiColor.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/ListenerEntry.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiModule.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiUtils.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/WebFont.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiFile.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBuffer.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBlob.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/LayoutConstraint.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiGradient.h
+d/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/HRColorPickerView.h
+d/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerViewProxy.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiViewProxy.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiRect.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiViewTemplate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerView.m221"CompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/NlFokkezbColorpickerView.o Classes/NlFokkezbColorpickerView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerd39fddca6965b941^a6b4f6ca6965b941^---0#0#1#-19%DVTDocumentLocation2@117"file://localhost/Volumes/Macintosh%20HD%202/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerView.m0000000000000000^4685"CompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/NlFokkezbColorpickerView.o Classes/NlFokkezbColorpickerView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=4.0 -iquote /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-generated-files.hmap -I/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-own-target-headers.hmap -I/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-all-target-headers.hmap -iquote /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-project-headers.hmap -I/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/Release-iphoneos/include -I/Users/marcelpociot/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include -I/Users/marcelpociot/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore -I/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/DerivedSources/armv7s -I/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/DerivedSources -F/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/Release-iphoneos -DTI_POST_1_2 -include /var/folders/xj/3kjzjmv14yj2sth24bnj7pjw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NlFokkezbColorpicker_Prefix-bhpbqvwxcuxjecaniertydzffrnt/NlFokkezbColorpicker_Prefix.pch -MMD -MT dependencies -MF /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/NlFokkezbColorpickerView.d --serialize-diagnostics /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/NlFokkezbColorpickerView.dia -c /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerView.m -o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/NlFokkezbColorpickerView.o36"33401CC7-8FCB-462E-BEE3-CC0A97DDBFD5-
+b5D1F2CF2-96A3-4C21-85AC-D6EC048E2E1E
+
 CCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/NlFokkezbColorpickerView.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/NlFokkezbColorpickerView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s426004399.141036
 e426004399.235220
@@ -3228,6 +3520,60 @@ d/Users/fokkezb/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.RC/ipho
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/fokkezb/dev/modules/ColorPicker/iphone/NlFokkezbColorpickerViewProxy.m223"CompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/NlFokkezbColorpickerViewProxy.o NlFokkezbColorpickerViewProxy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerbc90ea453d64b941^c938fe453d64b941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/fokkezb/dev/modules/ColorPicker/iphone/NlFokkezbColorpickerViewProxy.m0000000000000000^3764"CompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/NlFokkezbColorpickerViewProxy.o NlFokkezbColorpickerViewProxy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fokkezb/dev/modules/ColorPicker/iphone    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.0 -iquote /Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-generated-files.hmap -I/Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-own-target-headers.hmap -I/Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-all-target-headers.hmap -iquote /Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-project-headers.hmap -I/Users/fokkezb/dev/modules/ColorPicker/iphone/build/Release-iphoneos/include -I/Users/fokkezb/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.RC/iphone/include -I/Users/fokkezb/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.RC/iphone/include/TiCore -I/Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/DerivedSources/armv7s -I/Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/DerivedSources -F/Users/fokkezb/dev/modules/ColorPicker/iphone/build/Release-iphoneos -DTI_POST_1_2 -include /var/folders/9f/sl63bfh578x0v3ktkwjk0_ym0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NlFokkezbColorpicker_Prefix-aucrsobjzuyhyhaamurcbokozbrv/NlFokkezbColorpicker_Prefix.pch -MMD -MT dependencies -MF /Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/NlFokkezbColorpickerViewProxy.d --serialize-diagnostics /Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/NlFokkezbColorpickerViewProxy.dia -c /Users/fokkezb/dev/modules/ColorPicker/iphone/NlFokkezbColorpickerViewProxy.m -o /Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/NlFokkezbColorpickerViewProxy.o36"BCB5409C-0835-404B-BC5F-171B8A3DC735-
 b6B10E768-FE66-4B86-90AC-3BC321E41302
 
+CCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/NlFokkezbColorpickerViewProxy.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerViewProxy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426076618.864197
+e426076618.961821
+r1
+xCompileC
+xbuild/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/NlFokkezbColorpickerViewProxy.o
+x/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerViewProxy.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerViewProxy.m
+d/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerViewProxy.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiViewProxy.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiProxy.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBase.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/defines.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiThreading.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiPublicAPI.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiEvaluator.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/KrollContext.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiCore.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/Ti.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiBase.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiContextRef.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiObjectRef.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiValueRef.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/WebKitAvailability.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiStringRef.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiStringRefCF.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/KrollCallback.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/KrollObject.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBindingRunLoop.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiUIView.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiAnimation.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiPoint.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiDimension.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiColor.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/ListenerEntry.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiModule.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiUtils.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/WebFont.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiFile.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBuffer.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBlob.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/LayoutConstraint.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiGradient.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiRect.h
+d/Users/marcelpociot/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiViewTemplate.h
+d/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/HRColorPickerView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerViewProxy.m231"CompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/NlFokkezbColorpickerViewProxy.o Classes/NlFokkezbColorpickerViewProxy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerd87fddca6965b941^7e3af6ca6965b941^---0#0#1#-19%DVTDocumentLocation2@122"file://localhost/Volumes/Macintosh%20HD%202/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerViewProxy.m0000000000000000^4715"CompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/NlFokkezbColorpickerViewProxy.o Classes/NlFokkezbColorpickerViewProxy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=4.0 -iquote /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-generated-files.hmap -I/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-own-target-headers.hmap -I/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-all-target-headers.hmap -iquote /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/NlFokkezbColorpicker-project-headers.hmap -I/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/Release-iphoneos/include -I/Users/marcelpociot/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include -I/Users/marcelpociot/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore -I/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/DerivedSources/armv7s -I/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/DerivedSources -F/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/Release-iphoneos -DTI_POST_1_2 -include /var/folders/xj/3kjzjmv14yj2sth24bnj7pjw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NlFokkezbColorpicker_Prefix-bhpbqvwxcuxjecaniertydzffrnt/NlFokkezbColorpicker_Prefix.pch -MMD -MT dependencies -MF /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/NlFokkezbColorpickerViewProxy.d --serialize-diagnostics /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/NlFokkezbColorpickerViewProxy.dia -c /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/Classes/NlFokkezbColorpickerViewProxy.m -o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/NlFokkezbColorpickerViewProxy.o36"261625E7-7ACB-4044-981A-9C3B003E45B9-
+b5D1F2CF2-96A3-4C21-85AC-D6EC048E2E1E
+
 CCompileC build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/NlFokkezbColorpickerViewProxy.o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/NlFokkezbColorpickerViewProxy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s426004399.042869
 e426004399.139670
@@ -3325,15 +3671,15 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Create
 bD2208200-A2C6-4C1A-91B1-14647D3DCCF1
 
 CCreateUniversalBinary /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/Release-iphoneos/libNlFokkezbColorpicker.a normal armv7\ armv7s\ arm64
-s426004399.687029
-e426004399.769977
+s426076619.100383
+e426076619.186046
 r1
 xCreateUniversalBinary
 x/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/Release-iphoneos/libNlFokkezbColorpicker.a
 xnormal
 xarmv7 armv7s arm64
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"Create universal binary /Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/Release-iphoneos/libNlFokkezbColorpicker.a98"CreateUniversalBinary build/Release-iphoneos/libNlFokkezbColorpicker.a normal armv7\ armv7s\ arm64431fb0af4f64b941^cd1dc5af4f64b941^---0#0#1#-19%DVTDocumentLocation2@131"file://localhost/Volumes/Macintosh%20HD%202/Titanium/nl.fokkezb.colorpicker/iphone/build/Release-iphoneos/libNlFokkezbColorpicker.a0000000000000000^1808"CreateUniversalBinary build/Release-iphoneos/libNlFokkezbColorpicker.a normal armv7\ armv7s\ arm64    cd "/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/libNlFokkezbColorpicker.a /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/libNlFokkezbColorpicker.a /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/libNlFokkezbColorpicker.a -o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/Release-iphoneos/libNlFokkezbColorpicker.a36"AA135113-9B98-4F8A-9833-3BE6C37279CD-
-b14DBC735-6081-4128-B814-E461DFB1E2B1
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"Create universal binary /Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/Release-iphoneos/libNlFokkezbColorpicker.a98"CreateUniversalBinary build/Release-iphoneos/libNlFokkezbColorpicker.a normal armv7\ armv7s\ arm6429e919cb6965b941^3ca12fcb6965b941^---0#0#1#-19%DVTDocumentLocation2@131"file://localhost/Volumes/Macintosh%20HD%202/Titanium/nl.fokkezb.colorpicker/iphone/build/Release-iphoneos/libNlFokkezbColorpicker.a0000000000000000^1808"CreateUniversalBinary build/Release-iphoneos/libNlFokkezbColorpicker.a normal armv7\ armv7s\ arm64    cd "/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/libNlFokkezbColorpicker.a /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/libNlFokkezbColorpicker.a /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/libNlFokkezbColorpicker.a -o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/Release-iphoneos/libNlFokkezbColorpicker.a36"84303822-F22A-4BF1-A068-C3AE5C453953-
+b5D1F2CF2-96A3-4C21-85AC-D6EC048E2E1E
 
 CLibtool /Users/fokkezb/dev/modules/ColorPicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/libNlFokkezbColorpicker.a normal arm64
 s426073784.867222
@@ -3372,40 +3718,40 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Libtoo
 bD2208200-A2C6-4C1A-91B1-14647D3DCCF1
 
 CLibtool /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/libNlFokkezbColorpicker.a normal arm64
-s426004399.596407
-e426004399.678685
+s426076619.047694
+e426076619.092132
 r1
 xLibtool
 x/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/libNlFokkezbColorpicker.a
 xnormal
 xarm64
 o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Libtool build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/libNlFokkezbColorpicker.a normal arm64126"Libtool build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/libNlFokkezbColorpicker.a normal arm6465e498af4f64b941^c7d8adaf4f64b941^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--1922"Libtool build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/libNlFokkezbColorpicker.a normal arm64    cd "/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone"    export IPHONEOS_DEPLOYMENT_TARGET=4.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only arm64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/Release-iphoneos -filelist /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/NlFokkezbColorpicker.LinkFileList -ObjC -framework QuartzCore -framework Foundation -framework UIKit -framework CoreGraphics -o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/libNlFokkezbColorpicker.a36"853029E0-6D97-4F4F-8A4B-CECEA6CAABE5-
-b14DBC735-6081-4128-B814-E461DFB1E2B1
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Libtool build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/libNlFokkezbColorpicker.a normal arm64126"Libtool build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/libNlFokkezbColorpicker.a normal arm6495800ccb6965b941^919917cb6965b941^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--1922"Libtool build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/libNlFokkezbColorpicker.a normal arm64    cd "/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone"    export IPHONEOS_DEPLOYMENT_TARGET=4.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only arm64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/Release-iphoneos -filelist /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/NlFokkezbColorpicker.LinkFileList -ObjC -framework QuartzCore -framework Foundation -framework UIKit -framework CoreGraphics -o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/arm64/libNlFokkezbColorpicker.a36"298FC653-007F-412C-A646-B462EA9C3AC6-
+b5D1F2CF2-96A3-4C21-85AC-D6EC048E2E1E
 
 CLibtool /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/libNlFokkezbColorpicker.a normal armv7
-s426004399.595210
-e426004399.611749
+s426076619.047634
+e426076619.064553
 r1
 xLibtool
 x/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/libNlFokkezbColorpicker.a
 xnormal
 xarmv7
 o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Libtool build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/libNlFokkezbColorpicker.a normal armv7126"Libtool build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/libNlFokkezbColorpicker.a normal armv7f5a098af4f64b941^4e9c9caf4f64b941^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--1922"Libtool build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/libNlFokkezbColorpicker.a normal armv7    cd "/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone"    export IPHONEOS_DEPLOYMENT_TARGET=4.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/Release-iphoneos -filelist /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/NlFokkezbColorpicker.LinkFileList -ObjC -framework QuartzCore -framework Foundation -framework UIKit -framework CoreGraphics -o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/libNlFokkezbColorpicker.a36"FD90B093-3D13-43D9-A4EF-81017E86C0B9-
-b14DBC735-6081-4128-B814-E461DFB1E2B1
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Libtool build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/libNlFokkezbColorpicker.a normal armv7126"Libtool build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/libNlFokkezbColorpicker.a normal armv76d720ccb6965b941^ba8710cb6965b941^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--1922"Libtool build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/libNlFokkezbColorpicker.a normal armv7    cd "/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone"    export IPHONEOS_DEPLOYMENT_TARGET=4.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/Release-iphoneos -filelist /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/NlFokkezbColorpicker.LinkFileList -ObjC -framework QuartzCore -framework Foundation -framework UIKit -framework CoreGraphics -o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7/libNlFokkezbColorpicker.a36"69736558-59CC-408C-9487-F57F921A6346-
+b5D1F2CF2-96A3-4C21-85AC-D6EC048E2E1E
 
 CLibtool /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/libNlFokkezbColorpicker.a normal armv7s
-s426004399.595408
-e426004399.660759
+s426076619.047646
+e426076619.075540
 r1
 xLibtool
 x/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/libNlFokkezbColorpicker.a
 xnormal
 xarmv7s
 o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Libtool build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/libNlFokkezbColorpicker.a normal armv7s128"Libtool build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/libNlFokkezbColorpicker.a normal armv7s4eb398af4f64b941^7426a9af4f64b941^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--1927"Libtool build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/libNlFokkezbColorpicker.a normal armv7s    cd "/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone"    export IPHONEOS_DEPLOYMENT_TARGET=4.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/Release-iphoneos -filelist /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/NlFokkezbColorpicker.LinkFileList -ObjC -framework QuartzCore -framework Foundation -framework UIKit -framework CoreGraphics -o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/libNlFokkezbColorpicker.a36"691F4BDF-FA55-45D2-9444-1744F1DC4B84-
-b14DBC735-6081-4128-B814-E461DFB1E2B1
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Libtool build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/libNlFokkezbColorpicker.a normal armv7s128"Libtool build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/libNlFokkezbColorpicker.a normal armv7s997f0ccb6965b941^ab5913cb6965b941^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--1927"Libtool build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/libNlFokkezbColorpicker.a normal armv7s    cd "/Volumes/Macintosh HD 2/Titanium/nl.fokkezb.colorpicker/iphone"    export IPHONEOS_DEPLOYMENT_TARGET=4.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/Release-iphoneos -filelist /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/NlFokkezbColorpicker.LinkFileList -ObjC -framework QuartzCore -framework Foundation -framework UIKit -framework CoreGraphics -o /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/build/ColorPicker.build/Release-iphoneos/ColorPicker.build/Objects-normal/armv7s/libNlFokkezbColorpicker.a36"ED09308C-1CCF-48CF-BE0B-2CB419118C21-
+b5D1F2CF2-96A3-4C21-85AC-D6EC048E2E1E
 
 CProcessPCH /var/folders/9f/sl63bfh578x0v3ktkwjk0_ym0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NlFokkezbColorpicker_Prefix-aucrsobjzuyhyhaamurcbokozbrv/NlFokkezbColorpicker_Prefix.pch.pch NlFokkezbColorpicker_Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s425996867.084314

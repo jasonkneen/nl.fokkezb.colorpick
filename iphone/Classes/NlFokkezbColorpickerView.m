@@ -7,6 +7,7 @@
 //
 
 #import "NlFokkezbColorpickerView.h"
+#import "NlFokkezbColorpickerViewProxy.h"
 
 @implementation NlFokkezbColorpickerView
 
@@ -15,6 +16,9 @@
     if (colorPicker==nil)
     {
         colorPicker = [[HRColorPickerView alloc] init];
+        [colorPicker addTarget:self.proxy
+                            action:@selector(colorDidChange:)
+                  forControlEvents:UIControlEventValueChanged];
         [self addSubview:colorPicker];
     }
     
@@ -50,7 +54,7 @@
     NSLog(@"[VIEW LIFECYCLE EVENT] Property get: getColor_");
     
     UIColor *uc = [self colorPicker].color;
-    TiColor *tc = [[TiColor alloc] initWithColor:uc name:@"#fff"];
+    TiColor *tc = [[TiColor alloc] initWithColor:uc name:[(NlFokkezbColorpickerViewProxy*)self.proxy getHEXFromColor:uc]];
     
     return tc;
 }

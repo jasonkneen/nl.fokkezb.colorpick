@@ -15,6 +15,10 @@ var view = colorpicker.createView({
   // initial color (default: black)
   color: '#f00'
 });
+view.addEventListener("colorChange",function( e )
+{
+	Ti.API.info( "Changed Color to " , e.color.name );
+});
 
 btn.addEventListener('click', function(e) {
 
