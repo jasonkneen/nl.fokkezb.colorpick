@@ -23,23 +23,36 @@
 
 -(void)initializeState
 {
-    // This method is called right after allocating the view and
-    // is useful for initializing anything specific to the view
-    
     [super initializeState];
-    
-    [self colorPicker];
-    
-    NSLog(@"[VIEW LIFECYCLE EVENT] initializeState");
+
+    HRColorPickerView *cp = [self colorPicker];
 }
 
 -(void)frameSizeChanged:(CGRect)frame bounds:(CGRect)bounds
 {
     if (colorPicker!=nil)
     {
-        NSLog(@"[VIEW LIFECYCLE EVENT] initializeState IN IF");
         [TiUtils setView:colorPicker positionRect:bounds];
     }
+}
+
+-(void)setColor_:(id)color
+{
+    TiColor *tc = [TiUtils colorValue:color];
+    UIColor *uc = [tc _color];
+    
+    [self colorPicker].color = uc;
+}
+
+-(id)color
+{
+    
+    NSLog(@"[VIEW LIFECYCLE EVENT] Property get: getColor_");
+    
+    UIColor *uc = [self colorPicker].color;
+    TiColor *tc = [[TiColor alloc] initWithColor:uc name:@"#fff"];
+    
+    return tc;
 }
 
 @end

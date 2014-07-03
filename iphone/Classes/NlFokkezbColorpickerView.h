@@ -14,4 +14,6 @@
     HRColorPickerView *colorPicker;
 }
 
+@property (nonatomic, readwrite, assign) UIColor* color;
+
 @end

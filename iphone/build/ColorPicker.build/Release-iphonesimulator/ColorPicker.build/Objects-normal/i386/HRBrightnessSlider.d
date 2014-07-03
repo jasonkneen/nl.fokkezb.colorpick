@@ -1,5 +1,5 @@
 dependencies: \
-  /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/HRBrightnessSlider.m \
-  /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/HRBrightnessSlider.h \
-  /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/HRBrightnessCursor.h \
-  /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/HRHSVColorUtil.h
+  /Users/fokkezb/dev/modules/ColorPicker/iphone/ColorPicker/HRBrightnessSlider.m \
+  /Users/fokkezb/dev/modules/ColorPicker/iphone/ColorPicker/HRBrightnessSlider.h \
+  /Users/fokkezb/dev/modules/ColorPicker/iphone/ColorPicker/HRBrightnessCursor.h \
+  /Users/fokkezb/dev/modules/ColorPicker/iphone/ColorPicker/HRHSVColorUtil.h

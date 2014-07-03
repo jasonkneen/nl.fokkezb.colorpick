@@ -1,3 +1,3 @@
 dependencies: \
-  /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/HRHSVColorUtil.m \
-  /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/HRHSVColorUtil.h
+  /Users/fokkezb/dev/modules/ColorPicker/iphone/ColorPicker/HRHSVColorUtil.m \
+  /Users/fokkezb/dev/modules/ColorPicker/iphone/ColorPicker/HRHSVColorUtil.h

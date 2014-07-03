@@ -1,3 +1,3 @@
 dependencies: \
-  /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/UIImage+CoreGraphics.m \
-  /Volumes/Macintosh\ HD\ 2/Titanium/nl.fokkezb.colorpicker/iphone/ColorPicker/UIImage+CoreGraphics.h
+  /Users/fokkezb/dev/modules/ColorPicker/iphone/ColorPicker/UIImage+CoreGraphics.m \
+  /Users/fokkezb/dev/modules/ColorPicker/iphone/ColorPicker/UIImage+CoreGraphics.h
