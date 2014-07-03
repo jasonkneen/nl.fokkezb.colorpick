@@ -14,6 +14,6 @@
 }
 
 - (NSString*)getHEXFromColor:(UIColor *)color;
-- (void)colorDidChange:(HRColorPickerView *)pickerView;
+- (void)colorDidChange:(HRColorPickerView *)colorPicker;
 
 @end

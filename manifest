@@ -6,8 +6,8 @@ version: 1.0.0
 apiversion: 2
 description: ColorPicker
 author: Fokke Zandbergen
-license: Specify your license
-copyright: Copyright (c) 2014 by Your Company
+license: MIT
+copyright: Copyright (c) 2014 by Fokke Zandbergen
 
 # these should not be edited
 name: ColorPicker

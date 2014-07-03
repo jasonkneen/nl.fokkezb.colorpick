@@ -25,7 +25,7 @@
     
     [self setValue:hex forKey:@"color"];
     
-    [self fireEvent:@"colorChange" withObject:@{ @"color": hex}];
+    [self fireEvent:@"change" withObject:@{ @"color": hex}];
 }
 
 
