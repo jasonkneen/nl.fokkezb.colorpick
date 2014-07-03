@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C517FE31-F694-4899-BBD7-DDB130AEF6D9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ColorPicker</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>583E25F3-544F-40F1-BF26-FFDCBE34AE9D</key>
+		<string>ssh://github.com/FokkeZB/nl.fokkezb.colorpicker.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iphone/ColorPicker.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>583E25F3-544F-40F1-BF26-FFDCBE34AE9D</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/FokkeZB/nl.fokkezb.colorpicker.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>583E25F3-544F-40F1-BF26-FFDCBE34AE9D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>583E25F3-544F-40F1-BF26-FFDCBE34AE9D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>nl.fokkezb.colorpicker</string>
+		</dict>
+	</array>
+</dict>
+</plist>
