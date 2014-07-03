@@ -22,7 +22,6 @@
     
     UIColor *uc = colorPicker.color;
     NSString *hex = [self getHEXFromColor:uc];
-    TiColor *tc = [[TiColor alloc] initWithColor:uc name:hex];
     
     [self setValue:hex forKey:@"color"];
     
