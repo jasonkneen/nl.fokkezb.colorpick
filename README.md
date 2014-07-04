@@ -46,7 +46,7 @@ Other then default `Ti.UI.View` properties:
 
 * **(String) color:** Sets or gets the picked color.
 
-### Event: change
+### Events
 Other then default `Ti.UI.View` events:
 
 * **change:** Fires when the users picks a different color. The hex value of the color can be found in the `color` property of the event object received by the listener.
