@@ -7,7 +7,12 @@ See the [site](http://hayashi311.github.io/Color-Picker-for-iOS/) of the wrapped
 
 <a href="http://hayashi311.github.io/Color-Picker-for-iOS/" target="_blank"><img src="https://raw.githubusercontent.com/hayashi311/Color-Picker-for-iOS/screenshot/Vimeo.png" alt="Video" style="max-width:100%;"></a>
 
-## Usage
+## Get it [![gitTio](http://gitt.io/badge.png)](http://gitt.io/component/nl.fokkezb.colorpicker)
+Download the latest [distribution](dist) and consult the [Titanium Documentation](http://docs.appcelerator.com/titanium/latest/#!/guide/Using_a_Module) on how install it, or simply use the [gitTio CLI](http://gitt.io/cli):
+
+`$ gittio install nl.fokkezb.colorpicker`
+
+## Use it
 See the [example](example/app.js) or:
 
 ### Alloy
@@ -36,13 +41,15 @@ See the [example](example/app.js) or:
 	
 ## Reference
 
-### colorpicker.color
+### Properties
+Other then default `Ti.UI.View` properties:
 
-Sets or gets the picked color.
+* **(String) color:** Sets or gets the picked color.
 
-#### colorpicker:change
+### Events
+Other then default `Ti.UI.View` events:
 
-Fires when the users picks a different color. The hex value of the color can be found in the `color` property of the event object received by the listener.
+* **change:** Fires when the users picks a different color. The hex value of the color can be found in the `color` property of the event object received by the listener.
 
 ## Author
 
