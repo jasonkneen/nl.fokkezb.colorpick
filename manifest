@@ -2,7 +2,7 @@
 # this is your module manifest and used by Titanium
 # during compilation, packaging, distribution, etc.
 #
-version: 1.0.0
+version: 1.0.1
 apiversion: 2
 description: ColorPicker
 author: Fokke Zandbergen
@@ -11,7 +11,7 @@ copyright: Copyright (c) 2014 by Fokke Zandbergen
 
 # these should not be edited
 name: ColorPicker
-moduleid: nl.fokkezb.colorpicker
+moduleid: nl.fokkezb.colorpick
 guid: d3285640-bff2-4f63-8b70-2fc71d0612ef
 platform: iphone
-minsdk: 3.3.0.RC
+minsdk: 3.2.1

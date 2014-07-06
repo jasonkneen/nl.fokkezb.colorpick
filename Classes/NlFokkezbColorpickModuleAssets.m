@@ -1,11 +1,11 @@
 /**
  * This is a generated file. Do not edit or your changes will be lost
  */
-#import "NlFokkezbColorpickerModuleAssets.h"
+#import "NlFokkezbColorpickModuleAssets.h"
 
 extern NSData* filterDataInRange(NSData* thedata, NSRange range);
 
-@implementation NlFokkezbColorpickerModuleAssets
+@implementation NlFokkezbColorpickModuleAssets
 
 - (NSData*) moduleAsset
 {

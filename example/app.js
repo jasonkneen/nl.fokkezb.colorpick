@@ -1,4 +1,4 @@
-var colorpicker = require('nl.fokkezb.colorpicker');
+var colorpicker = require('nl.fokkezb.colorpick');
 
 var win = Ti.UI.createWindow({
   backgroundColor: '#ddd'

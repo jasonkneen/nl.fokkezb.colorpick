@@ -22,18 +22,18 @@
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
-		24DD6CF91134B3F500162E58 /* NlFokkezbColorpickerModule.h in Headers */ = {isa = PBXBuildFile; fileRef = 24DD6CF71134B3F500162E58 /* NlFokkezbColorpickerModule.h */; };
-		24DD6CFA1134B3F500162E58 /* NlFokkezbColorpickerModule.m in Sources */ = {isa = PBXBuildFile; fileRef = 24DD6CF81134B3F500162E58 /* NlFokkezbColorpickerModule.m */; };
-		24DE9E1111C5FE74003F90F6 /* NlFokkezbColorpickerModuleAssets.h in Headers */ = {isa = PBXBuildFile; fileRef = 24DE9E0F11C5FE74003F90F6 /* NlFokkezbColorpickerModuleAssets.h */; };
-		24DE9E1211C5FE74003F90F6 /* NlFokkezbColorpickerModuleAssets.m in Sources */ = {isa = PBXBuildFile; fileRef = 24DE9E1011C5FE74003F90F6 /* NlFokkezbColorpickerModuleAssets.m */; };
-		AA747D9F0F9514B9006C5449 /* NlFokkezbColorpicker_Prefix.pch in Headers */ = {isa = PBXBuildFile; fileRef = AA747D9E0F9514B9006C5449 /* NlFokkezbColorpicker_Prefix.pch */; };
+		24DD6CF91134B3F500162E58 /* NlFokkezbColorpickModule.h in Headers */ = {isa = PBXBuildFile; fileRef = 24DD6CF71134B3F500162E58 /* NlFokkezbColorpickModule.h */; };
+		24DD6CFA1134B3F500162E58 /* NlFokkezbColorpickModule.m in Sources */ = {isa = PBXBuildFile; fileRef = 24DD6CF81134B3F500162E58 /* NlFokkezbColorpickModule.m */; };
+		24DE9E1111C5FE74003F90F6 /* NlFokkezbColorpickModuleAssets.h in Headers */ = {isa = PBXBuildFile; fileRef = 24DE9E0F11C5FE74003F90F6 /* NlFokkezbColorpickModuleAssets.h */; };
+		24DE9E1211C5FE74003F90F6 /* NlFokkezbColorpickModuleAssets.m in Sources */ = {isa = PBXBuildFile; fileRef = 24DE9E1011C5FE74003F90F6 /* NlFokkezbColorpickModuleAssets.m */; };
+		AA747D9F0F9514B9006C5449 /* NlFokkezbColorpick_Prefix.pch in Headers */ = {isa = PBXBuildFile; fileRef = AA747D9E0F9514B9006C5449 /* NlFokkezbColorpick_Prefix.pch */; };
 		AACBBE4A0F95108600F1A2B1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AACBBE490F95108600F1A2B1 /* Foundation.framework */; };
 		DB008AAE19643DB100C169A8 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DBC0337619643A02003BED7B /* CoreGraphics.framework */; };
 		DB008AAF19643DB600C169A8 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DBC03374196439FB003BED7B /* UIKit.framework */; };
 		DB008AB019643DC500C169A8 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DBC03372196439EC003BED7B /* QuartzCore.framework */; };
-		DB82555A196552AE009ABF28 /* NlFokkezbColorpickerView.m in Sources */ = {isa = PBXBuildFile; fileRef = DB825557196552AE009ABF28 /* NlFokkezbColorpickerView.m */; };
-		DB82555B196552AE009ABF28 /* NlFokkezbColorpickerViewProxy.h in Headers */ = {isa = PBXBuildFile; fileRef = DB825558196552AE009ABF28 /* NlFokkezbColorpickerViewProxy.h */; };
-		DB82555C196552AE009ABF28 /* NlFokkezbColorpickerViewProxy.m in Sources */ = {isa = PBXBuildFile; fileRef = DB825559196552AE009ABF28 /* NlFokkezbColorpickerViewProxy.m */; };
+		DB82555A196552AE009ABF28 /* NlFokkezbColorpickView.m in Sources */ = {isa = PBXBuildFile; fileRef = DB825557196552AE009ABF28 /* NlFokkezbColorpickView.m */; };
+		DB82555B196552AE009ABF28 /* NlFokkezbColorpickViewProxy.h in Headers */ = {isa = PBXBuildFile; fileRef = DB825558196552AE009ABF28 /* NlFokkezbColorpickViewProxy.h */; };
+		DB82555C196552AE009ABF28 /* NlFokkezbColorpickViewProxy.m in Sources */ = {isa = PBXBuildFile; fileRef = DB825559196552AE009ABF28 /* NlFokkezbColorpickViewProxy.m */; };
 		DBC0335A19642C28003BED7B /* HRBrightnessCursor.h in Headers */ = {isa = PBXBuildFile; fileRef = DBC0334A19642C28003BED7B /* HRBrightnessCursor.h */; };
 		DBC0335B19642C28003BED7B /* HRBrightnessCursor.m in Sources */ = {isa = PBXBuildFile; fileRef = DBC0334B19642C28003BED7B /* HRBrightnessCursor.m */; };
 		DBC0335C19642C28003BED7B /* HRBrightnessSlider.h in Headers */ = {isa = PBXBuildFile; fileRef = DBC0334C19642C28003BED7B /* HRBrightnessSlider.h */; };
@@ -50,7 +50,7 @@
 		DBC0336719642C28003BED7B /* HRHSVColorUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = DBC0335719642C28003BED7B /* HRHSVColorUtil.m */; };
 		DBC0336819642C28003BED7B /* UIImage+CoreGraphics.h in Headers */ = {isa = PBXBuildFile; fileRef = DBC0335819642C28003BED7B /* UIImage+CoreGraphics.h */; };
 		DBC0336919642C28003BED7B /* UIImage+CoreGraphics.m in Sources */ = {isa = PBXBuildFile; fileRef = DBC0335919642C28003BED7B /* UIImage+CoreGraphics.m */; };
-		DBC0336B19642C85003BED7B /* NlFokkezbColorpickerView.h in Headers */ = {isa = PBXBuildFile; fileRef = DBC0336A19642C85003BED7B /* NlFokkezbColorpickerView.h */; };
+		DBC0336B19642C85003BED7B /* NlFokkezbColorpickView.h in Headers */ = {isa = PBXBuildFile; fileRef = DBC0336A19642C85003BED7B /* NlFokkezbColorpickView.h */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -64,17 +64,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		24DD6CF71134B3F500162E58 /* NlFokkezbColorpickerModule.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = NlFokkezbColorpickerModule.h; path = Classes/NlFokkezbColorpickerModule.h; sourceTree = "<group>"; };
-		24DD6CF81134B3F500162E58 /* NlFokkezbColorpickerModule.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = NlFokkezbColorpickerModule.m; path = Classes/NlFokkezbColorpickerModule.m; sourceTree = "<group>"; };
+		24DD6CF71134B3F500162E58 /* NlFokkezbColorpickModule.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = NlFokkezbColorpickModule.h; path = Classes/NlFokkezbColorpickModule.h; sourceTree = "<group>"; };
+		24DD6CF81134B3F500162E58 /* NlFokkezbColorpickModule.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = NlFokkezbColorpickModule.m; path = Classes/NlFokkezbColorpickModule.m; sourceTree = "<group>"; };
 		24DD6D1B1134B66800162E58 /* titanium.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = titanium.xcconfig; sourceTree = "<group>"; };
-		24DE9E0F11C5FE74003F90F6 /* NlFokkezbColorpickerModuleAssets.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = NlFokkezbColorpickerModuleAssets.h; path = Classes/NlFokkezbColorpickerModuleAssets.h; sourceTree = "<group>"; };
-		24DE9E1011C5FE74003F90F6 /* NlFokkezbColorpickerModuleAssets.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = NlFokkezbColorpickerModuleAssets.m; path = Classes/NlFokkezbColorpickerModuleAssets.m; sourceTree = "<group>"; };
-		AA747D9E0F9514B9006C5449 /* NlFokkezbColorpicker_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NlFokkezbColorpicker_Prefix.pch; sourceTree = SOURCE_ROOT; };
+		24DE9E0F11C5FE74003F90F6 /* NlFokkezbColorpickModuleAssets.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = NlFokkezbColorpickModuleAssets.h; path = Classes/NlFokkezbColorpickModuleAssets.h; sourceTree = "<group>"; };
+		24DE9E1011C5FE74003F90F6 /* NlFokkezbColorpickModuleAssets.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = NlFokkezbColorpickModuleAssets.m; path = Classes/NlFokkezbColorpickModuleAssets.m; sourceTree = "<group>"; };
+		AA747D9E0F9514B9006C5449 /* NlFokkezbColorpick_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NlFokkezbColorpick_Prefix.pch; sourceTree = SOURCE_ROOT; };
 		AACBBE490F95108600F1A2B1 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		D2AAC07E0554694100DB518D /* libNlFokkezbColorpicker.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libNlFokkezbColorpicker.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		DB825557196552AE009ABF28 /* NlFokkezbColorpickerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = NlFokkezbColorpickerView.m; path = Classes/NlFokkezbColorpickerView.m; sourceTree = "<group>"; };
-		DB825558196552AE009ABF28 /* NlFokkezbColorpickerViewProxy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = NlFokkezbColorpickerViewProxy.h; path = Classes/NlFokkezbColorpickerViewProxy.h; sourceTree = "<group>"; };
-		DB825559196552AE009ABF28 /* NlFokkezbColorpickerViewProxy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = NlFokkezbColorpickerViewProxy.m; path = Classes/NlFokkezbColorpickerViewProxy.m; sourceTree = "<group>"; };
+		D2AAC07E0554694100DB518D /* libNlFokkezbColorpick.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libNlFokkezbColorpick.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		DB825557196552AE009ABF28 /* NlFokkezbColorpickView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = NlFokkezbColorpickView.m; path = Classes/NlFokkezbColorpickView.m; sourceTree = "<group>"; };
+		DB825558196552AE009ABF28 /* NlFokkezbColorpickViewProxy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = NlFokkezbColorpickViewProxy.h; path = Classes/NlFokkezbColorpickViewProxy.h; sourceTree = "<group>"; };
+		DB825559196552AE009ABF28 /* NlFokkezbColorpickViewProxy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = NlFokkezbColorpickViewProxy.m; path = Classes/NlFokkezbColorpickViewProxy.m; sourceTree = "<group>"; };
 		DBC0334A19642C28003BED7B /* HRBrightnessCursor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HRBrightnessCursor.h; sourceTree = "<group>"; };
 		DBC0334B19642C28003BED7B /* HRBrightnessCursor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HRBrightnessCursor.m; sourceTree = "<group>"; };
 		DBC0334C19642C28003BED7B /* HRBrightnessSlider.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HRBrightnessSlider.h; sourceTree = "<group>"; };
@@ -91,7 +91,7 @@
 		DBC0335719642C28003BED7B /* HRHSVColorUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HRHSVColorUtil.m; sourceTree = "<group>"; };
 		DBC0335819642C28003BED7B /* UIImage+CoreGraphics.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+CoreGraphics.h"; sourceTree = "<group>"; };
 		DBC0335919642C28003BED7B /* UIImage+CoreGraphics.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+CoreGraphics.m"; sourceTree = "<group>"; };
-		DBC0336A19642C85003BED7B /* NlFokkezbColorpickerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = NlFokkezbColorpickerView.h; path = Classes/NlFokkezbColorpickerView.h; sourceTree = "<group>"; };
+		DBC0336A19642C85003BED7B /* NlFokkezbColorpickView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = NlFokkezbColorpickView.h; path = Classes/NlFokkezbColorpickView.h; sourceTree = "<group>"; };
 		DBC03372196439EC003BED7B /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		DBC03374196439FB003BED7B /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		DBC0337619643A02003BED7B /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -115,7 +115,7 @@
 		034768DFFF38A50411DB9C8B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D2AAC07E0554694100DB518D /* libNlFokkezbColorpicker.a */,
+				D2AAC07E0554694100DB518D /* libNlFokkezbColorpick.a */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -146,14 +146,14 @@
 			isa = PBXGroup;
 			children = (
 				DBC0334919642C28003BED7B /* ColorPicker */,
-				24DE9E0F11C5FE74003F90F6 /* NlFokkezbColorpickerModuleAssets.h */,
-				24DE9E1011C5FE74003F90F6 /* NlFokkezbColorpickerModuleAssets.m */,
-				24DD6CF71134B3F500162E58 /* NlFokkezbColorpickerModule.h */,
-				24DD6CF81134B3F500162E58 /* NlFokkezbColorpickerModule.m */,
-				DB825558196552AE009ABF28 /* NlFokkezbColorpickerViewProxy.h */,
-				DB825559196552AE009ABF28 /* NlFokkezbColorpickerViewProxy.m */,
-				DBC0336A19642C85003BED7B /* NlFokkezbColorpickerView.h */,
-				DB825557196552AE009ABF28 /* NlFokkezbColorpickerView.m */,
+				24DE9E0F11C5FE74003F90F6 /* NlFokkezbColorpickModuleAssets.h */,
+				24DE9E1011C5FE74003F90F6 /* NlFokkezbColorpickModuleAssets.m */,
+				24DD6CF71134B3F500162E58 /* NlFokkezbColorpickModule.h */,
+				24DD6CF81134B3F500162E58 /* NlFokkezbColorpickModule.m */,
+				DB825558196552AE009ABF28 /* NlFokkezbColorpickViewProxy.h */,
+				DB825559196552AE009ABF28 /* NlFokkezbColorpickViewProxy.m */,
+				DBC0336A19642C85003BED7B /* NlFokkezbColorpickView.h */,
+				DB825557196552AE009ABF28 /* NlFokkezbColorpickView.m */,
 			);
 			name = Classes;
 			sourceTree = "<group>";
@@ -161,7 +161,7 @@
 		32C88DFF0371C24200C91783 /* Other Sources */ = {
 			isa = PBXGroup;
 			children = (
-				AA747D9E0F9514B9006C5449 /* NlFokkezbColorpicker_Prefix.pch */,
+				AA747D9E0F9514B9006C5449 /* NlFokkezbColorpick_Prefix.pch */,
 				24DD6D1B1134B66800162E58 /* titanium.xcconfig */,
 			);
 			name = "Other Sources";
@@ -200,15 +200,15 @@
 				DBC0336219642C28003BED7B /* HRColorMapView.h in Headers */,
 				DBC0336419642C28003BED7B /* HRColorPickerView.h in Headers */,
 				DBC0335C19642C28003BED7B /* HRBrightnessSlider.h in Headers */,
-				AA747D9F0F9514B9006C5449 /* NlFokkezbColorpicker_Prefix.pch in Headers */,
-				DB82555B196552AE009ABF28 /* NlFokkezbColorpickerViewProxy.h in Headers */,
+				AA747D9F0F9514B9006C5449 /* NlFokkezbColorpick_Prefix.pch in Headers */,
+				DB82555B196552AE009ABF28 /* NlFokkezbColorpickViewProxy.h in Headers */,
 				DBC0335E19642C28003BED7B /* HRColorCursor.h in Headers */,
 				DBC0336019642C28003BED7B /* HRColorInfoView.h in Headers */,
 				DBC0336619642C28003BED7B /* HRHSVColorUtil.h in Headers */,
 				DBC0336819642C28003BED7B /* UIImage+CoreGraphics.h in Headers */,
-				24DD6CF91134B3F500162E58 /* NlFokkezbColorpickerModule.h in Headers */,
-				24DE9E1111C5FE74003F90F6 /* NlFokkezbColorpickerModuleAssets.h in Headers */,
-				DBC0336B19642C85003BED7B /* NlFokkezbColorpickerView.h in Headers */,
+				24DD6CF91134B3F500162E58 /* NlFokkezbColorpickModule.h in Headers */,
+				24DE9E1111C5FE74003F90F6 /* NlFokkezbColorpickModuleAssets.h in Headers */,
+				DBC0336B19642C85003BED7B /* NlFokkezbColorpickView.h in Headers */,
 				DBC0335A19642C28003BED7B /* HRBrightnessCursor.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -230,7 +230,7 @@
 			);
 			name = ColorPicker;
 			productName = ColorPicker;
-			productReference = D2AAC07E0554694100DB518D /* libNlFokkezbColorpicker.a */;
+			productReference = D2AAC07E0554694100DB518D /* libNlFokkezbColorpick.a */;
 			productType = "com.apple.product-type.library.static";
 		};
 /* End PBXNativeTarget section */
@@ -285,14 +285,14 @@
 				DBC0336519642C28003BED7B /* HRColorPickerView.m in Sources */,
 				DBC0336919642C28003BED7B /* UIImage+CoreGraphics.m in Sources */,
 				DBC0336719642C28003BED7B /* HRHSVColorUtil.m in Sources */,
-				24DD6CFA1134B3F500162E58 /* NlFokkezbColorpickerModule.m in Sources */,
+				24DD6CFA1134B3F500162E58 /* NlFokkezbColorpickModule.m in Sources */,
 				DBC0335F19642C28003BED7B /* HRColorCursor.m in Sources */,
 				DBC0335D19642C28003BED7B /* HRBrightnessSlider.m in Sources */,
-				DB82555C196552AE009ABF28 /* NlFokkezbColorpickerViewProxy.m in Sources */,
-				24DE9E1211C5FE74003F90F6 /* NlFokkezbColorpickerModuleAssets.m in Sources */,
+				DB82555C196552AE009ABF28 /* NlFokkezbColorpickViewProxy.m in Sources */,
+				24DE9E1211C5FE74003F90F6 /* NlFokkezbColorpickModuleAssets.m in Sources */,
 				DBC0336319642C28003BED7B /* HRColorMapView.m in Sources */,
 				DBC0336119642C28003BED7B /* HRColorInfoView.m in Sources */,
-				DB82555A196552AE009ABF28 /* NlFokkezbColorpickerView.m in Sources */,
+				DB82555A196552AE009ABF28 /* NlFokkezbColorpickView.m in Sources */,
 				DBC0335B19642C28003BED7B /* HRBrightnessCursor.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -315,11 +315,11 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DSTROOT = /tmp/NlFokkezbColorpicker.dst;
+				DSTROOT = /tmp/NlFokkezbColorpick.dst;
 				GCC_C_LANGUAGE_STANDARD = c99;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = NlFokkezbColorpicker_Prefix.pch;
+				GCC_PREFIX_HEADER = NlFokkezbColorpick_Prefix.pch;
 				GCC_PREPROCESSOR_DEFINITIONS = "TI_VERSION=$(TI_VERSION)";
 				GCC_TREAT_WARNINGS_AS_ERRORS = NO;
 				GCC_VERSION = "";
@@ -338,7 +338,7 @@
 					"-DTI_POST_1_2",
 				);
 				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_NAME = NlFokkezbColorpicker;
+				PRODUCT_NAME = NlFokkezbColorpick;
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
 				RUN_CLANG_STATIC_ANALYZER = NO;
@@ -353,11 +353,11 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ENABLE_OBJC_ARC = YES;
-				DSTROOT = /tmp/NlFokkezbColorpicker.dst;
+				DSTROOT = /tmp/NlFokkezbColorpick.dst;
 				GCC_C_LANGUAGE_STANDARD = c99;
 				GCC_MODEL_TUNING = G5;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = NlFokkezbColorpicker_Prefix.pch;
+				GCC_PREFIX_HEADER = NlFokkezbColorpick_Prefix.pch;
 				GCC_PREPROCESSOR_DEFINITIONS = "TI_VERSION=$(TI_VERSION)";
 				GCC_TREAT_WARNINGS_AS_ERRORS = NO;
 				GCC_VERSION = "";
@@ -374,7 +374,7 @@
 				LIBRARY_SEARCH_PATHS = "";
 				OTHER_CFLAGS = "-DTI_POST_1_2";
 				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_NAME = NlFokkezbColorpicker;
+				PRODUCT_NAME = NlFokkezbColorpick;
 				RUN_CLANG_STATIC_ANALYZER = NO;
 				SDKROOT = iphoneos;
 				USER_HEADER_SEARCH_PATHS = "";
@@ -392,7 +392,7 @@
 				GCC_C_LANGUAGE_STANDARD = c99;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = NlFokkezbColorpicker_Prefix.pch;
+				GCC_PREFIX_HEADER = NlFokkezbColorpick_Prefix.pch;
 				GCC_PREPROCESSOR_DEFINITIONS = "TI_VERSION=$(TI_VERSION)";
 				GCC_TREAT_WARNINGS_AS_ERRORS = NO;
 				GCC_VERSION = "";
@@ -410,7 +410,7 @@
 					"-DTI_POST_1_2",
 				);
 				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_NAME = NlFokkezbColorpicker;
+				PRODUCT_NAME = NlFokkezbColorpick;
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
 				RUN_CLANG_STATIC_ANALYZER = NO;
@@ -429,7 +429,7 @@
 				GCC_C_LANGUAGE_STANDARD = c99;
 				GCC_MODEL_TUNING = G5;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = NlFokkezbColorpicker_Prefix.pch;
+				GCC_PREFIX_HEADER = NlFokkezbColorpick_Prefix.pch;
 				GCC_PREPROCESSOR_DEFINITIONS = "TI_VERSION=$(TI_VERSION)";
 				GCC_TREAT_WARNINGS_AS_ERRORS = NO;
 				GCC_VERSION = "";
@@ -445,7 +445,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
 				OTHER_CFLAGS = "-DTI_POST_1_2";
 				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_NAME = NlFokkezbColorpicker;
+				PRODUCT_NAME = NlFokkezbColorpick;
 				RUN_CLANG_STATIC_ANALYZER = NO;
 				SDKROOT = iphoneos;
 				USER_HEADER_SEARCH_PATHS = "";

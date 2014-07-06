@@ -1,5 +1,5 @@
 //
-//  NlFokkezbColorpickerView.h
+//  NlFokkezbColorpickView.h
 //  ColorPicker
 //
 //  Created by Fokke Zandbergen on 02/07/14.
@@ -10,7 +10,7 @@
 #import "TiUIView.h"
 #import "HRColorPickerView.h"
 
-@interface NlFokkezbColorpickerView : TiUIView {
+@interface NlFokkezbColorpickView : TiUIView {
     HRColorPickerView *colorPicker;
 }
 

@@ -15,7 +15,7 @@ See the [example](example/app.js) or:
 **index.xml**
 	
 	<Alloy>
-		<View module="nl.fokkezb.colorpicker" color="#F00" onChange="onChange" />
+		<View module="nl.fokkezb.colorpick" color="#F00" onChange="onChange" />
 	</Alloy>
 	
 **index.js**
@@ -26,7 +26,7 @@ See the [example](example/app.js) or:
 
 ### Classic
 
-	var colorpicker = require("nl.fokkezb.colorpicker");
+	var colorpicker = require("nl.fokkezb.colorpick");
 	var view = colorpicker.createView({
 		color: "#F00"
 	});

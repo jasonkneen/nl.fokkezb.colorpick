@@ -1,15 +1,15 @@
 //
-//  NlFokkezbColorpickerView.m
+//  NlFokkezbColorpickView.m
 //  ColorPicker
 //
 //  Created by Fokke Zandbergen on 02/07/14.
 //
 //
 
-#import "NlFokkezbColorpickerView.h"
-#import "NlFokkezbColorpickerViewProxy.h"
+#import "NlFokkezbColorpickView.h"
+#import "NlFokkezbColorpickViewProxy.h"
 
-@implementation NlFokkezbColorpickerView
+@implementation NlFokkezbColorpickView
 
 -(HRColorPickerView*)colorPicker
 {

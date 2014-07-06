@@ -2,7 +2,7 @@
  * This is a generated file. Do not edit or your changes will be lost
  */
 
-@interface NlFokkezbColorpickerModuleAssets : NSObject
+@interface NlFokkezbColorpickModuleAssets : NSObject
 {
 }
 - (NSData*) moduleAsset;

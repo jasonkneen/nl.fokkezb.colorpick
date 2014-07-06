@@ -5,12 +5,12 @@
  * Copyright (c) 2014 Your Company. All rights reserved.
  */
 
-#import "NlFokkezbColorpickerModule.h"
+#import "NlFokkezbColorpickModule.h"
 #import "TiBase.h"
 #import "TiHost.h"
 #import "TiUtils.h"
 
-@implementation NlFokkezbColorpickerModule
+@implementation NlFokkezbColorpickModule
 
 #pragma mark Internal
 
@@ -23,7 +23,7 @@
 // this is generated for your module, please do not change it
 -(NSString*)moduleId
 {
-	return @"nl.fokkezb.colorpicker";
+	return @"nl.fokkezb.colorpick";
 }
 
 #pragma mark Lifecycle

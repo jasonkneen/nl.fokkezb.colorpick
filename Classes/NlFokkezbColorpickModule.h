@@ -7,7 +7,7 @@
 
 #import "TiModule.h"
 
-@interface NlFokkezbColorpickerModule : TiModule
+@interface NlFokkezbColorpickModule : TiModule
 {
 }
 
