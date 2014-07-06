@@ -7,10 +7,10 @@ See the [site](http://hayashi311.github.io/Color-Picker-for-iOS/) of the wrapped
 
 <a href="http://hayashi311.github.io/Color-Picker-for-iOS/" target="_blank"><img src="https://raw.githubusercontent.com/hayashi311/Color-Picker-for-iOS/screenshot/Vimeo.png" alt="Video" style="max-width:100%;"></a>
 
-## Get it [![gitTio](http://gitt.io/badge.png)](http://gitt.io/component/nl.fokkezb.colorpicker)
+## Get it [![gitTio](http://gitt.io/badge.png)](http://gitt.io/component/nl.fokkezb.colorpick)
 Download the latest [distribution](dist) and consult the [Titanium Documentation](http://docs.appcelerator.com/titanium/latest/#!/guide/Using_a_Module) on how install it, or simply use the [gitTio CLI](http://gitt.io/cli):
 
-`$ gittio install nl.fokkezb.colorpicker`
+`$ gittio install nl.fokkezb.colorpick`
 
 ## Use it
 See the [example](example/app.js) or:
