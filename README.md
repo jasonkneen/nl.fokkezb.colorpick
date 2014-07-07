@@ -2,6 +2,8 @@
 
 Wraps Ryota Hayashi's [ColorPicker for iOS](https://github.com/hayashi311/Color-Picker-for-iOS) for [Appcelerator Titanium](http://appcelerator.com/titanium).
 
+**NOTE:** For an Alloy cross-platform color picker widget see [nl.fokkezb.color](http://gitt.io/component/nl.fokkezb.color).
+
 ## Example
 See the [site](http://hayashi311.github.io/Color-Picker-for-iOS/) of the wrapped module:
 
