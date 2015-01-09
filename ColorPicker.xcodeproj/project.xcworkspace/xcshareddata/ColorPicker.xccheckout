@@ -10,31 +10,31 @@
 	<string>ColorPicker</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>8BED001A-C075-4B5F-915B-4412924E648B</key>
-		<string>https://github.com/FokkeZB/nl.fokkezb.colorpicker.git</string>
+		<key>59433B49DEF14A065D91BEE979F49AF0BD39D04D</key>
+		<string>https://github.com/caspahouzer/nl.fokkezb.colorpick.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>ColorPicker.xcodeproj/project.xcworkspace</string>
+	<string>ColorPicker.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>8BED001A-C075-4B5F-915B-4412924E648B</key>
+		<key>59433B49DEF14A065D91BEE979F49AF0BD39D04D</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/FokkeZB/nl.fokkezb.colorpicker.git</string>
+	<string>https://github.com/caspahouzer/nl.fokkezb.colorpick.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>8BED001A-C075-4B5F-915B-4412924E648B</string>
+	<string>59433B49DEF14A065D91BEE979F49AF0BD39D04D</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>8BED001A-C075-4B5F-915B-4412924E648B</string>
+			<string>59433B49DEF14A065D91BEE979F49AF0BD39D04D</string>
 			<key>IDESourceControlWCCName</key>
-			<string>ColorPicker</string>
+			<string>nl.fokkezb.colorpick</string>
 		</dict>
 	</array>
 </dict>
