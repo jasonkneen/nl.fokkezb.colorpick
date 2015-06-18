@@ -1,0 +1,38 @@
+{
+  "version": "1.0.2",
+  "description": "ColorPicker",
+  "author": "Fokke Zandbergen",
+  "license": "MIT",
+  "name": "ti-module-nl.fokkezb.colorpick",
+  "appc-npm": {
+    "target": {
+      "titanium": "/",
+      "alloy": "/"
+    },
+    "unzip": [
+      "dist/nl.fokkezb.colorpick-iphone-1.0.2.zip"
+    ]
+  },
+  "files": [
+    "appc-npm",
+    "dist/nl.fokkezb.colorpick-iphone-1.0.2.zip"
+  ],
+  "scripts": {
+    "postinstall": "node ./appc-npm"
+  },
+  "keywords": [
+    "appcelerator",
+    "appc-npm",
+    "ti-module",
+    "titanium",
+    "alloy"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/FokkeZB/nl.fokkezb.colorpick.git"
+  },
+  "homepage": "https://github.com/FokkeZB/nl.fokkezb.colorpick",
+  "bugs": {
+    "url": "https://github.com/FokkeZB/nl.fokkezb.colorpick/issues"
+  }
+}
