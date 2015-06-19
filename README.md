@@ -1,4 +1,4 @@
-# ColorPicker Module [![Appcelerator Titanium](http://www-static.appcelerator.com/badges/titanium-git-badge-sq.png)](http://appcelerator.com/titanium/)
+# ColorPicker Module [![gitTio](http://gitt.io/badge.svg)](http://gitt.io/component/nl.fokkezb.colorpick) [![NPM](https://img.shields.io/npm/v/ti-module-dk.napp.drawer.svg?style=flat-square)](https://www.npmjs.com/package/ti-module-dk.napp.drawer)
 
 Wraps Ryota Hayashi's [ColorPicker for iOS](https://github.com/hayashi311/Color-Picker-for-iOS) for [Appcelerator Titanium](http://appcelerator.com/titanium).
 
@@ -9,10 +9,16 @@ See the [site](http://hayashi311.github.io/Color-Picker-for-iOS/) of the wrapped
 
 <a href="http://hayashi311.github.io/Color-Picker-for-iOS/" target="_blank"><img src="https://raw.githubusercontent.com/hayashi311/Color-Picker-for-iOS/screenshot/Vimeo.png" alt="Video" style="max-width:100%;"></a>
 
-## Get it [![gitTio](http://gitt.io/badge.png)](http://gitt.io/component/nl.fokkezb.colorpick)
-Download the latest [distribution](dist) and consult the [Titanium Documentation](http://docs.appcelerator.com/titanium/latest/#!/guide/Using_a_Module) on how install it, or simply use the [gitTio CLI](http://gitt.io/cli):
+## Get it
+Download the latest [distribution](dist) and consult the [Titanium Documentation](http://docs.appcelerator.com/titanium/latest/#!/guide/Using_a_Module) on how install it
+
+Or use the [gitTio CLI](http://gitt.io/cli) [![gitTio](http://gitt.io/badge.svg)](http://gitt.io/component/nl.fokkezb.colorpick)
 
 `$ gittio install nl.fokkezb.colorpick`
+
+Or NPM [![NPM](https://img.shields.io/npm/v/ti-module-dk.napp.drawer.svg?style=flat-square)](https://www.npmjs.com/package/ti-module-dk.napp.drawer)
+
+`$ npm i --save ti-module-nl.fokkezb.colorpick`
 
 ## Use it
 See the [example](example/app.js) or:
