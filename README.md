@@ -1,4 +1,4 @@
-# ColorPicker Module [![gitTio](http://gitt.io/badge.svg)](http://gitt.io/component/nl.fokkezb.colorpick) [![NPM](https://img.shields.io/npm/v/ti-module-dk.napp.drawer.svg?style=flat-square)](https://www.npmjs.com/package/ti-module-dk.napp.drawer)
+# ColorPicker Module [![gitTio](http://gitt.io/badge.svg)](http://gitt.io/component/nl.fokkezb.colorpick) [![NPM](https://img.shields.io/npm/v/ti-module-nl.fokkezb.colorpick.svg?style=flat-square)](https://www.npmjs.com/package/ti-module-dk.napp.drawer)
 
 Wraps Ryota Hayashi's [ColorPicker for iOS](https://github.com/hayashi311/Color-Picker-for-iOS) for [Appcelerator Titanium](http://appcelerator.com/titanium).
 
@@ -16,7 +16,7 @@ Or use the [gitTio CLI](http://gitt.io/cli) [![gitTio](http://gitt.io/badge.svg)
 
 `$ gittio install nl.fokkezb.colorpick`
 
-Or NPM [![NPM](https://img.shields.io/npm/v/ti-module-dk.napp.drawer.svg?style=flat-square)](https://www.npmjs.com/package/ti-module-dk.napp.drawer)
+Or NPM [![NPM](https://img.shields.io/npm/v/ti-module-nl.fokkezb.colorpick.svg?style=flat-square)](https://www.npmjs.com/package/ti-module-nl.fokkezb.colorpick)
 
 `$ npm i --save ti-module-nl.fokkezb.colorpick`
 
