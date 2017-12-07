@@ -1,4 +1,4 @@
-# ColorPicker Module [![gitTio](http://gitt.io/badge.svg)](http://gitt.io/component/nl.fokkezb.colorpick) [![NPM](https://img.shields.io/npm/v/ti-module-nl.fokkezb.colorpick.svg?style=flat-square)](https://www.npmjs.com/package/ti-module-dk.napp.drawer)
+# ColorPicker Module [![gitTio](http://gitt.io/badge.svg)](http://gitt.io/component/nl.fokkezb.colorpick) [![NPM](https://img.shields.io/npm/v/ti-module-nl.fokkezb.colorpick.svg?style=flat-square)](https://www.npmjs.com/package/ti-module-nl.fokkezb.colorpick)
 
 Wraps Ryota Hayashi's [ColorPicker for iOS](https://github.com/hayashi311/Color-Picker-for-iOS) for [Appcelerator Titanium](http://appcelerator.com/titanium).
 
